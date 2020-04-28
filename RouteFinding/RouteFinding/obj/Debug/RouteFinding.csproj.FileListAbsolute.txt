@@ -1,0 +1,10 @@
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\bin\Debug\RouteFinding.exe.config
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\bin\Debug\RouteFinding.exe
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\bin\Debug\RouteFinding.pdb
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\obj\Debug\RouteFinding.csprojAssemblyReference.cache
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\obj\Debug\RouteFinding.RouteFinding.resources
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\obj\Debug\RouteFinding.Properties.Resources.resources
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\obj\Debug\RouteFinding.csproj.GenerateResource.cache
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\obj\Debug\RouteFinding.csproj.CoreCompileInputs.cache
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\obj\Debug\RouteFinding.exe
+C:\Users\new881386\source\repos\RouteFinding\RouteFinding\obj\Debug\RouteFinding.pdb
